@@ -99,6 +99,10 @@ npm create cloudflare@latest -- jottings --framework=astro --platform=pages
 │ verified project is ready for deployment
 │
 
+(from Youtube video, to add cloudflare to package.json: npm run astro add cloudflare)
+
+See astro.config.mjs
+
 astro build && wrangler pages deploy
 
 npm i -D wrangler@latest
@@ -147,10 +151,18 @@ To upload to Cloudflare:
 
     npx
 
+curl http://localhost:4323/api/api-test
+
 Links:
+
+<https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/>
 
 <https://developers.cloudflare.com/workers/static-assets/migration-guides/migrate-from-pages/>
 
 <https://www.codewithkarani.com/blog/vite-504-outdated-optimize-dep-explained>
 
 <https://docs.astro.build/en/guides/deploy/cloudflare/>
+
+<https://youtu.be/c_IBs1crl4k>
+
+<https://docs.astro.build/en/guides/endpoints/>
