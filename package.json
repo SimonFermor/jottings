@@ -20,6 +20,8 @@
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^7.3.4",
+    "present": "^1.0.0",
+    "scripts": "^0.1.0",
     "sharp": "^0.35.0"
   },
   "allowScripts": {
