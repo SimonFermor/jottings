@@ -7,7 +7,7 @@
 	"name": "jottings",
 	"compatibility_date": "2026-09-23",
 	"assets": { 
-		"directory": "./dist/client" },
+		"directory": "./dist" },
 	"observability": {
 		"enabled": true
 	},
