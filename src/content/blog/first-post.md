@@ -1,5 +1,5 @@
 ---
-title: 'Cloudflare Getting Started'
+title: 'Cloudflare with Astro: Getting Started'
 description: 'Getting started with Astro and Cloudflare'
 pubDate: 'September 23 2026'
 ---
@@ -28,7 +28,7 @@ This website was created using Node.js version v24.18.0 and npm version 11.16.0
 
 Creating the ./jottings folder and get started with the Astro framework:
 
-npx create-astro@5.2.4 jotttings --no-install --no-git
+> npx create-astro@5.2.4 jotttings --no-install --no-git
 
 Settings:
 
@@ -46,7 +46,7 @@ Use blog template
 
 Create a Cloudflare pages site:
 
-npm create cloudflare@latest -- jottings --framework=astro --platform=pages
+> npm create cloudflare@latest -- jottings --framework=astro --platform=pages
 
 Output:
 
@@ -118,47 +118,49 @@ See astro.config.mjs
 4 Build and Deploy
 ---------------
 
-astro build && wrangler pages deploy
+> astro build && wrangler pages deploy
 
-npm i -D wrangler@latest
+> npm i -D wrangler@latest
 
-npm install scripts present
+> npm install scripts present
 
 5 Running Wrangler
 -------------
 
-Check the version of Wrangler: npx wrangler --version
+Check the version of Wrangler:
+
+> npx wrangler --version
 
 To run Wrangler:
 
-    npx wrangler
+> npx wrangler
 
 To login to Wrangler:
 
-    wrangler login
+> wrangler login
 
 To set up Wrangler
 
-    wrangler setup
+> wrangler setup
 
 To make sure the local installation of Wrangler is the latest:
 
-    npm update @astrojs/cloudflare wrangler
+> npm update @astrojs/cloudflare wrangler
 
 6 To run the dev site locally
 ------------
 
-    npm run dev
+> npm run dev
 
 7 To build the public site (updates files in /dist/client/)
 -------------
 
-    npx astro build
+> npx astro build
 
 8 To upload to Cloudflare
 -------------
 
-    npx wrangler deploy
+> npx wrangler deploy
 
 More details
 -------
@@ -172,5 +174,7 @@ More details
 [Cloudflare Deployment Guide](https://docs.astro.build/en/guides/deploy/cloudflare/)
 
 [YouTube Cloudflare Astro guide](https://youtu.be/c_IBs1crl4k)
+
+[Astro Guide to Cloudflare Deployment](https://docs.astro.build/en/guides/deploy/cloudflare/)
 
 [Astro Guide to Using Endpoints](https://docs.astro.build/en/guides/endpoints/)
