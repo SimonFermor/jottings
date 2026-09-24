@@ -1,8 +1,7 @@
 ---
 title: 'Third post'
 description: 'Using Cloudflare KV and D1'
-pubDate: 'Jul 22 2022'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+pubDate: 'September 25 2026'
 ---
 
 See Astro docs for using KV (key value store)

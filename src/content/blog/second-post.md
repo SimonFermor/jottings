@@ -1,8 +1,7 @@
 ---
 title: 'Second post'
 description: 'Developer tools'
-pubDate: 'Jul 15 2022'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+pubDate: 'September 24 2026'
 ---
 
 
