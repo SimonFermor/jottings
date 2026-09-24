@@ -120,8 +120,10 @@ See astro.config.mjs
 
 > astro build && wrangler pages deploy
 
+<!-- -->
 > npm i -D wrangler@latest
 
+<!-- -->
 > npm install scripts present
 
 5 Running Wrangler
