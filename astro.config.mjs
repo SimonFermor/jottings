@@ -4,11 +4,10 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
 
-import cloudflare from '@astrojs/cloudflare';
-
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://jottings-woh.pages.dev',
+  output: 'static', // Explicitly declare static output
   integrations: [mdx(), sitemap()],
 
   fonts: [
@@ -34,13 +33,6 @@ export default defineConfig({
               ],
           },
       },
-	],
-
-  adapter: cloudflare({
-      platformProxy: {
-          enabled: true
-      },
-
-      imageService: "cloudflare"
-  }),
+  ],
+  // No adapter or runtime imageService block is needed for SSG
 });
