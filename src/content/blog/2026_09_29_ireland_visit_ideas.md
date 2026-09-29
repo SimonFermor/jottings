@@ -5,4 +5,6 @@ pubDate: 'September 29 2026'
 tags: ["ireland", "travel", "eire"]
 ---
 
-<https://uniqueascent.ie/>
+[Giants Causeway](https://en.wikipedia.org/wiki/Giant%27s_Causeway)
+
+[Donegal sea stack climbing](https://uniqueascent.ie/)
