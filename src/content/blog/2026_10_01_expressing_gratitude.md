@@ -2,7 +2,7 @@
 title: 'Gratitude'
 description: 'Expressing gratitude'
 pubDate: 'October 1, 2026'
-tags: ["gratitude", "astro"]
+tags: ["gratitude", "wellness"]
 ---
 
 -- updatedDate: 'September 27 2026'
