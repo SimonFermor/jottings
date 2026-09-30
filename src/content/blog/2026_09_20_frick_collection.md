@@ -21,4 +21,5 @@ And many others.
 I particularly enjoyed see the following:
 
 [Salisbury Cathedral from the Bishop's Grounds](https://collections.frick.org/objects/79/salisbury-cathedral-from-the-bishops-grounds)
+
 [Portrait of Sir Thomas More by Hans Holbein the Younger](https://collections.frick.org/objects/100/sir-thomas-more)
