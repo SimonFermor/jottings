@@ -1,9 +1,12 @@
 ---
 title: 'Reading List'
 description: 'Books to read soon!'
-pubDate: 'September 30 2026'
+pubDate: 'September 20 2026'
 tags: ["books", "reading"]
+updatedDate: 'September 30 2026'
 ---
+
+Douglas Hostadter: Gödel, Escher, Bach: An Eternal Golden Braid
 
 Doris Lessing: The Good Terrorist
 
