@@ -4,6 +4,7 @@ description: 'Getting started with Astro and Cloudflare'
 pubDate: 'September 23 2026'
 tags: ["astro", "node", "npm", "nvm"]
 displayIntro: true
+updatedDate: 'October 2 2026'
 ---
 
 This post describes the initial steps in setting up this blog site.
@@ -32,7 +33,7 @@ This website was created using Node.js version v24.18.0 and npm version 11.16.0
 
 Creating the ./jottings folder and get started with the Astro framework:
 
-> npx create-astro@5.2.4 jotttings --no-install --no-git
+    > npx create-astro@5.2.4 jotttings --no-install --no-git
 
 (tutorial suggestion: npm create astro@latest)
 
@@ -52,7 +53,7 @@ Use blog template
 
 Create a Cloudflare pages site:
 
-> npm create cloudflare@latest -- jottings --framework=astro --platform=pages
+    > npm create cloudflare@latest -- jottings --framework=astro --platform=pages
 
 Output:
 
@@ -124,53 +125,61 @@ See astro.config.mjs
 4 Build and Deploy
 ---------------
 
-> astro build && wrangler pages deploy
+    > astro build && wrangler pages deploy
 
 <!-- -->
-> npm i -D wrangler@latest
+    > npm i -D wrangler@latest
 
 <!-- -->
-> npm install scripts present
+    > npm install scripts present
 
 5 Running Wrangler
 -------------
 
 Check the version of Wrangler:
 
-> npx wrangler --version
+    > npx wrangler --version
 
 To run Wrangler:
 
-> npx wrangler
+    > npx wrangler
 
 To login to Wrangler:
 
-> wrangler login
+    > wrangler login
 
 To set up Wrangler
 
-> wrangler setup
+    > wrangler setup
 
 To make sure the local installation of Wrangler is the latest:
 
-> npm update @astrojs/cloudflare wrangler
+    > npm update @astrojs/cloudflare wrangler
 
 6 To run the dev site locally
 ------------
 
-> npm run dev
+    > npm run dev
 
 7 To build the public site (updates files in /dist/client/)
 -------------
 
-> npx astro build
+    > npm run build
+
+Uses the build setting from package.json, for example:
+
+    "scripts": {
+        "dev": "astro dev",
+        "build": "astro build",
+    },
 
 8 To upload to Cloudflare
 -------------
 
-The site on Cloudflare is a Pages project, good for static sites.
+The site on Cloudflare is a Pages project, good for static sites.  Initially I used wrangler to deploy
+the site to Cloudflare.  I'm now pushing to Github and using the Cloudflare app to build the site and update Cloudflare.
 
-> npx wrangler deploy
+    > npx wrangler deploy
 
 9 DNS
 ------
@@ -178,8 +187,8 @@ The site on Cloudflare is a Pages project, good for static sites.
 For DNS I did the following:
 
 - add a sub-domain for fermor.org on the domain provider
-- create a CNAME target on the domain registration site to point to jottings-woh.pages.dev (the Cloudflare site url)
-- update Cloudflare to set the custom domain (blog.fermor.org) to point to the Cloudflare site
+- create a CNAME target on the domain provider to point to jottings-woh.pages.dev (the Cloudflare site url)
+- update Cloudflare to allow the external custom sub-domain (blog.fermor.org) to be used for the Cloudflare site
 
 More details
 -------
