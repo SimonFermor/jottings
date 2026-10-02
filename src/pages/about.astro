@@ -1,29 +1,45 @@
 ---
+const PageTitle = 'About Me';
 import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
 import Layout from '../layouts/BlogPost.astro';
+
+const identity = {
+  firstName: "Simon",
+  country: "United States",
+  occupation: "Software Engineer",
+  hobbies: ["photography", "reading", ""],
+};
+
+const skills = ["HTML", "CSS", "JavaScript", "SQL", "Astro", "Writing Docs"];
+
+const technologies = ["MediaWiki", "Discourse", "Linux", "SQL Server", "PostgreSQL", "AWS", "Azure", "Docker"];
+
+const displayIntro = true;
 ---
 
 <Layout
-	title="About Me"
+	title={PageTitle}
 	description="All about me"
 	pubDate={new Date('September 23 2026')}
 	heroImage={AboutHeroImage}
 >
-	<p>
-		I'm a an experienced software engineer, hightly skilled in front end technologies, SQL as well as cloud technologies.
+	{displayIntro && 
+	<p>I'm an experienced software engineer, hightly skilled in front end technologies, SQL as well as cloud technologies. 
+		With years of experience in web development, I specialize in user facing systems.</p>}
 
-		With years of experience in web development, I specialize in user facing systems.
+	<p>
+		In addition to sites based on vanilla {skills[0]}, CSS, and JavaScript I have experience in creating sites using technologies, including the following:
 	</p>
-
+	<ul>
+		{technologies.map((technology) => <li class="technology">{technology}</li>)}
+	</ul>
 	<p>
-		In addition to sites based on vanilla HTML, CSS, and JavaScript I have experience in creating sites using technologies
-		such as MediaWiki and setting up and running Discourse instances.
-	</p>
-
-	<p>
-		When I'm not coding, I enjoy exploring new technologies, sharing my knowledge through blogging.
+		When I'm not coding, I enjoy exploring new technologies and sharing my knowledge through blogging.
 	</p>
 		
+	<p>
+		Outside the tech world, I enjoy cycling, hiking, photography, cooking, reading and philosophy. 
+	</p>
 	<p>
 		Some links:
 	</p>
@@ -37,6 +53,6 @@ import Layout from '../layouts/BlogPost.astro';
 	</ul>
 
 	<p>
-		Icon from Bike by Alzam from <a href="https://thenounproject.com/browse/icons/term/bike/" target="_blank" title="Bike Icons">Noun Project</a> (CC BY 3.0)
+		Favicon from Bike by Alzam from <a href="https://thenounproject.com/browse/icons/term/bike/" target="_blank" title="Bike Icons">Noun Project</a> (CC BY 3.0)
 		</p>
 </Layout>

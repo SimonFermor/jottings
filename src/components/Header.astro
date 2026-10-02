@@ -1,6 +1,9 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+
+backGroundColor: "white";
+fontSize: "1em";
 ---
 
 <header>
@@ -34,13 +37,15 @@ import HeaderLink from './HeaderLink.astro';
 			</a></div>
 	</nav>
 </header>
-<style>
+
+<style define:vars{{backGroundColor, fontSize}}>
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: white;
+		background: var(--backgroundColor);
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
 	}
+
 	h2 {
 		margin: 0;
 		font-size: 1em;
@@ -57,7 +62,7 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	nav a {
 		padding: 1em 0.5em;
-		color: var(--black);
+		color: var(--backgroundColor);
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
 	}
@@ -73,5 +78,9 @@ import HeaderLink from './HeaderLink.astro';
 		.social-links {
 			display: none;
 		}
+	}
+	font-size: var(--fontSize);
+	p {
+		font-size: var(--fontSize);
 	}
 </style>

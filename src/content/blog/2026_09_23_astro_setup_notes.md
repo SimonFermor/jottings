@@ -3,6 +3,7 @@ title: 'Cloudflare with Astro: Getting Started'
 description: 'Getting started with Astro and Cloudflare'
 pubDate: 'September 23 2026'
 tags: ["astro", "node", "npm", "nvm"]
+displayIntro: true
 ---
 
 This post describes the initial steps in setting up this blog site.
@@ -182,6 +183,8 @@ For DNS I did the following:
 
 More details
 -------
+
+[Astro Getting Started Tutorial](https://docs.astro.build/en/tutorial/0-introduction/)
 
 [Cloudflare Astro Deployment Guide](https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/)
 
