@@ -2,7 +2,7 @@
 title: 'Reading Novels'
 description: 'Reading Novels is Good for You'
 pubDate: 'October 2 2026'
-tags: ["reading", "life", "novels"]
+tags: ["reading", "life", "novels", "cognition"]
 ---
 
 Research is showing that reading for pleasure has many benefits.  This is described in an [editorial](https://www.cambridge.org/core/journals/psychological-medicine/article/reading-and-associations-with-brain-health-cognition-wellbeing-and-mental-health/1A3565FA61831A975813113DE1AB2B09) in the Cambridge University journal of Psychological Medicine.
@@ -30,4 +30,4 @@ Quotes:
 
 ..engaging with books is associated with enhanced well-being, reduced stress, and greater empathy, likely through its stimulation of emotional and social-cognitive processes.
 
-https://www.cambridge.org/core/journals/psychological-medicine/article/reading-and-associations-with-brain-health-cognition-wellbeing-and-mental-health/1A3565FA61831A975813113DE1AB2B09
+<https://www.cambridge.org/core/journals/psychological-medicine/article/reading-and-associations-with-brain-health-cognition-wellbeing-and-mental-health/1A3565FA61831A975813113DE1AB2B09>
