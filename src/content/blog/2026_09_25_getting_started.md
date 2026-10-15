@@ -20,3 +20,11 @@ On the first day, I'd do the following:
 ## Various Resources
 
 Cheatography [Cheat Sheet](https://cheatography.com/simon-fermor/cheat-sheets/markdown/) on Markdown
+
+## Resources
+
+A couple of sites with great resources for getting started:
+
+- Free code camp: [https://www.freecodecamp.org/learn]
+
+- Code Academy: [https://www.codecademy.com/]
