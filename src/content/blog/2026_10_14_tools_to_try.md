@@ -5,6 +5,7 @@ pubDate: 'October 14 2026'
 tags: ["tools", "to do"]
 ---
 
+Zod [TypeScript-first schema validation with static type inference]()
 Zellij termincal multiplexer: [https://zellij.dev/]
 
 jq command-line JSON processor [https://jqlang.org/]
