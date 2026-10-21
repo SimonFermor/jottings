@@ -21,3 +21,7 @@ The recommended lifestyle changes are:
 _On average, the lifestyle intervention led to an 8.55-point decrease, 1.73 points more than the 6.82-point decrease in the CBT group._
 
 _[Ashwini Nadkarni](https://connects.catalyst.harvard.edu/Profiles/display/Person/124779) at Harvard Medical School. “Changes in one’s lifestyle can impact depression through several pathways, including inflammation, stress and neuroplasticity, which is the reorganisation of structure, function and connections in the brain._
+
+## References
+
+[https://www.newscientist.com/article/2391417-seven-healthy-lifestyle-activities-may-massively-cut-depression-risk/]
