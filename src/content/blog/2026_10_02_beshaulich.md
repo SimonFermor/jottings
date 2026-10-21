@@ -2,7 +2,7 @@
 title: 'Beschaulich'
 description: 'Beschaulich'
 pubDate: 'October 2 2026'
-tags: ["beschaulich", "german"]
+tags: ["beschaulich", "german", "contemplation"]
 ---
 
 Beschaulich is a german word, meaning to lead a life of peace, tranquility, contemplation, meditative

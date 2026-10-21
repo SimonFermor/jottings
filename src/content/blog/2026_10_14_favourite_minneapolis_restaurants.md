@@ -2,7 +2,7 @@
 title: 'Favourite Minneapolis Restaurants'
 description: 'Favourite Minneapolis Restaurants'
 pubDate: 'October 14 2026'
-tags: ["tools", "to do"]
+tags: ["restaurants", "minneapolis"]
 ---
 Some Favourite Chinese restaurants:
 

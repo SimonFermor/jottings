@@ -7,4 +7,4 @@ tags: ["photography", "cameras"]
 
 [Sony A6700 vs Sony A7 IV](https://www.campkinscameras.com/guides/sony-a6700-vs-a7iv/)
 
-[Campkins Cameras](https://www.campkinscameras.com/about/)
+[Campkins Cameras](https://www.campkinscameras.com/)

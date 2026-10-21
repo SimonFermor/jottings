@@ -3,7 +3,7 @@ title: 'Getting Started'
 description: 'Getting Started in Web Development'
 pubDate: 'September 25 2026'
 updatedDate: 'October 14 2026'
-tags: ["tools"]
+tags: ["tools", "web-development"]
 ---
 
 Some notes on what I'd do if I was getting started in Web Development

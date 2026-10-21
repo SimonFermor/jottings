@@ -2,7 +2,7 @@
 title: 'Meditation Mantras'
 description: 'Meditation Mantras'
 pubDate: 'October 3 2026'
-tags: ["meditation", "matras"]
+tags: ["meditation", "mantras"]
 ---
 
 A suggested mantra from Jeff on the Calm app: "I am"

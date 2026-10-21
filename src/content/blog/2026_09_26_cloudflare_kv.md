@@ -2,7 +2,7 @@
 title: 'Using Cloudflare KV'
 description: 'Using Cloudflare KV'
 pubDate: 'September 26 2026'
-tags: ["kv", "key-value store"]
+tags: ["kv", "key-value store", "cloudflare"]
 ---
 
 See Astro docs for using KV (key value store)

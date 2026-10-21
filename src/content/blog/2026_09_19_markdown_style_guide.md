@@ -2,7 +2,7 @@
 title: 'Markdown Style Guide'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'September 19 2026'
-tags: ["markdown"]
+tags: ["markdown", "styles"]
 ---
 The content below is as provided in the [starter project](https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/) used for this blog site.
 

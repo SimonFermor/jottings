@@ -2,7 +2,7 @@
 title: 'Drinking Water'
 description: 'Drinking Water'
 pubDate: 'October 15 2026'
-tags: ["water", "health"]
+tags: ["water", "health", "hydration"]
 ---
 
 Resources

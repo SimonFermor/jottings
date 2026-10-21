@@ -3,7 +3,7 @@ title: 'Museum of the dog'
 description: 'Which dog breed are you?'
 pubDate: 'September 20 2026'
 heroImage: '../../assets/2026_09_20_dog_museum_1.jpg'
-tags: ["template", "astro"]
+tags: ["dog", "museums"]
 myImage: '../../assets/2026_09_20_dog_museum_1.jpg'
 ---
 
