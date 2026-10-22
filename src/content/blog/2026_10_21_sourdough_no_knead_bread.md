@@ -47,4 +47,4 @@ Resources
 
 King Arthur Baking blog [article](https://www.kingarthurbaking.com/blog/2023/01/25/bannetons-brotforms-proofing-baskets) on proofing baskets
 
-Grant https://grantbakes.com/where-to-let-dough-rise-15-warm-spots/
+Grant Bakes [advice](https://grantbakes.com/where-to-let-dough-rise-15-warm-spots/) on warm spots for proofing
