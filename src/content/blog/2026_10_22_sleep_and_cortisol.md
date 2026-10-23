@@ -11,3 +11,5 @@ Cortisol is a steroid hormone that helps in the bodies response to inflammnation
 - physical activity
 - practice deep breathing
 - maintain healthy relationships
+
+Eating close to bed-time can produce elevated cortisol levels in the night, which can lead to waking in the middle of the night and having difficulty getting back to sleep.
