@@ -16,3 +16,5 @@ Luc P Beaudoin on [LinkedIn](https://www.linkedin.com/in/luc-p-beaudoin-10766019
 Luc Beaudoin video on somnolent information-processing on [YouTube](https://www.youtube.com/watch?v=Eh9x8MqS0xY)
 
 MySleepButton [app](https://mysleepbutton.com/en/home/)
+
+New York Times [article](https://www.nytimes.com/2025/03/20/well/mind/sleep-cognitive-shuffling.html) on cognitive shuffling
