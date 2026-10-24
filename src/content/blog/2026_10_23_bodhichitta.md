@@ -10,7 +10,7 @@ Bodhichitta is a Sanskrit term in the Mahayana Buddhist tradition and is the awa
 
 To be able to achieve bodhichitta we need to fully awaken our own heart and mind.  We can't do this without learning more about ourselves and reflecting on the suffering of others.  Frequent meditation practices can help in awakening and lead to enlightenment.  When we awaken and achieve enlightenment we can help others do the same.
 
-There is a lot of suffering in this world and there is a limit to what we can achieve to relieve this suffering.
+There is a lot of suffering in this world and there is a limit to what we can do to relieve this suffering.  The awakened mind accepts this to be so and is also better prepared to help.
 
 References:
 
