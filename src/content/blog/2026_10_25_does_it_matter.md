@@ -1,7 +1,7 @@
 ---
 title: 'Does It Matter'
 description: 'Welcome the Unwelcome: Does It Matter?'
-pubDate: 'October 23 2026'
+pubDate: 'October 25 2026'
 tags: ["buddhism", "awakening", "payu", "reactivity"]
 ---
 Notes on chapter 2 Does it Matter from _Welcoming the Unwelcome_ by Pema Chodron.
