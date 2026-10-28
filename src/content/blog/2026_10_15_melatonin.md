@@ -5,7 +5,7 @@ pubDate: 'October 15 2026'
 tags: ["melatonin", "health", "wellbeing"]
 ---
 
-Melatonin is certainly useful for some people with insomnia and those experiencing jet lag (particularly when travelling east).
+Melatonin is certainly useful for some people with insomnia and those experiencing jet lag (particularly when traveling east).
 
 Some considerations:
 

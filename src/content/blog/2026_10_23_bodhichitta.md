@@ -2,9 +2,9 @@
 title: 'Bodhichitta'
 description: 'Bodhichitta'
 pubDate: 'October 23 2026'
-tags: ["buddhism", "awakening"]
+tags: ["buddhism", "awakening", "pema-chödrön"]
 ---
-Some notes on reading the first chapter of Welcoming the Unwelcome by Pema Chodron: Begin with a Broken Heart.
+Some notes on reading the first chapter of Welcoming the Unwelcome by Pema Chödrön: Begin with a Broken Heart.
 
 Bodhichitta is a Sanskrit term in the Mahayana Buddhist tradition and is the awakening of the heart and mind.  In essence the awakened heart is free from hindrances that get in the way of helping others.  No confused thoughts or bad habits.
 
@@ -15,3 +15,5 @@ There is a lot of suffering in this world and there is a limit to what we can do
 References:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bodhicitta)
+
+[Pema Chödrön][quotes](https://pemachodronfoundation.org/quotes/)

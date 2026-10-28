@@ -1,10 +1,10 @@
 ---
-title: 'Does It Matter'
+title: 'Does It Matter?'
 description: 'Welcome the Unwelcome: Does It Matter?'
 pubDate: 'October 25 2026'
-tags: ["buddhism", "awakening", "payu", "reactivity"]
+tags: ["buddhism", "awakening", "payu", "reactivity", "pema-chödrön"]
 ---
-Notes on chapter 2 Does it Matter from _Welcoming the Unwelcome_ by Pema Chodron.
+Notes on chapter 2 Does it Matter from _Welcoming the Unwelcome_ by Pema Chödrön.
 
 Do you ever find that you react to a situation or get frustrated and would like to behave differently?  Over time we develop habits and ways of thinking that can be counter-productive and leave us feeling dissatisfied.
 
@@ -20,4 +20,4 @@ By practicing 'payu' we can become better at not automatically reacting and over
 
 ## References
 
-Chodron, Pema. _Welcoming the Unwelcome._ Shambhala Publications, Inc, 2019.
+Chödrön, Pema. _Welcoming the Unwelcome._ Shambhala Publications, Inc, 2019.

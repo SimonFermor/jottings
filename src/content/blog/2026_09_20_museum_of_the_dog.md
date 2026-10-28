@@ -15,6 +15,6 @@ Norwegian Lundehund - Loyal, energetic, alert:
 
 ![Norwegian Lundehund](../../assets/2026_09_20_dog_museum_1.jpg)
 
-Russell Terrier: Alert, inqusitive, lively:
+Russell Terrier: Alert, inquisitive, lively:
 
 ![Russell Terrier](../../assets/2026_09_20_dog_museum_2.jpg)

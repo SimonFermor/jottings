@@ -12,3 +12,7 @@ There are good methods to reduce and avoid ruminating and instead be comfortable
 One technique is through worry management, see separate [post](/blog/2026_10_13_sleep_and_worries)
 
 Simply Psychology article on how to stop ruminating: [https://www.simplypsychology.com/articles/overthinking-how-to-stop-ruminating]
+
+## Resources
+
+Nick Wignall [post](https://nickwignall.com/worry-on-paper/)

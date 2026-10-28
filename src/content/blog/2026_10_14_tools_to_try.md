@@ -7,6 +7,6 @@ tags: ["development-tools", "to do"]
 
 Zod [TypeScript-first schema validation with static type inference]
 
-Zellij termincal multiplexer: [https://zellij.dev/]
+Zellij terminal multiplexer: [https://zellij.dev/]
 
 jq command-line JSON processor [https://jqlang.org/]

@@ -7,7 +7,7 @@ tags: ["depression", "wellness"]
 
 Lifestyle interventions are effective in treating depression, for example finding enjoyable forms of exercise, managing alcohol intake, improved diet (with extra veggies) and getting good-quality sleep.
 
-Ashwini Nadkarni at Harvard Medical School: “Changes in one’s lifestyle can impact depression through several pathways, including inflammation, stress and neuroplasticity, which is the reorganisation of structure, function and connections in the brain”
+Ashwini Nadkarni at Harvard Medical School: “Changes in one’s lifestyle can impact depression through several pathways, including inflammation, stress and neuroplasticity, which is the reorganization of structure, function and connections in the brain”
 
 “Such pathways also include metabolism of feel-good chemicals or neurotransmitters, along with the relationship between the brain, gut and all of the microorganisms that live in the gut and make up the intestinal microbiome.”
 
