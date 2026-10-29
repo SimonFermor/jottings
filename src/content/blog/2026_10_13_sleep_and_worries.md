@@ -40,3 +40,4 @@ Suggestion: Set aside time in the day for worries
 
 [https://oxfordhealth.nhs.uk/camhs/self-care/sleep/anxiety-worry/relaxation-plan/]
 
+Nick Wignall [post](https://nickwignall.com/worry-on-paper/) on the benefits of writing down worries
