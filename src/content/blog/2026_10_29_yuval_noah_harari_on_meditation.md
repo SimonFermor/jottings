@@ -16,3 +16,7 @@ Some notes on short interview with Yuval Noah Harari on [NDTV](https://www.youtu
 4. Meditation allows us to step out of the imaginary world and see reality.
 
 5. Closing our eyes, meditating and just following our breath allows us to connect with reality.  Every time we get distracted we focus again on our breath and come back to reality.
+
+## Resources
+
+[Wikipedia](https://en.wikipedia.org/wiki/Samatha-vipassan%C4%81)

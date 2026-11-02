@@ -13,6 +13,8 @@ One technique is through worry management, see separate [post](/blog/2026_10_13_
 
 Simply Psychology article on how to stop ruminating: [https://www.simplypsychology.com/articles/overthinking-how-to-stop-ruminating]
 
+Ruminating does not help and a good habit is to say NO when it starts!
+
 ## Resources
 
 Nick Wignall [post](https://nickwignall.com/worry-on-paper/)
