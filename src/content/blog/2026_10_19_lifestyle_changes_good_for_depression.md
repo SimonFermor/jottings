@@ -15,8 +15,8 @@ The recommended lifestyle changes are:
 - getting enough sleep
 - regularly exercising
 - eating a healthy diet
-- frequently socialising
-- minimising sedentary behaviour
+- frequently socializing
+- minimizing sedentary behaviour
 
 _On average, the lifestyle intervention led to an 8.55-point decrease, 1.73 points more than the 6.82-point decrease in the CBT group._
 
@@ -25,3 +25,4 @@ _[Ashwini Nadkarni](https://connects.catalyst.harvard.edu/Profiles/display/Perso
 ## References
 
 [https://www.newscientist.com/article/2391417-seven-healthy-lifestyle-activities-may-massively-cut-depression-risk/]
+
