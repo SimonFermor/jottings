@@ -14,13 +14,13 @@ When inhaling the diaphragm moves down, the heart expands and blood circulation 
 
 When exhaling, the opposite happens and the heart will slow down.
 
-This is the physiological sigh and occurs automatically in certain situations, such as when going to sleep to starting to cry.
+Breathing in and then exhaling slowly helps reduce the heart rate.  Breathing in and then taking a sharp further inhale before slowly exhaling produces the physiological sigh.
 
-Breathing in and then exhaling slowly helps reduce the heart rate.  Breathing in and then taking a sharp further inhale before slowly exhaling produces the physiological sigh and is more effective.
+The physiological sigh occurs automatically in certain situations, such as when going to sleep or starting to cry.
 
-Carbon dioxide builds up when stressed.  The long exhale is more effective at expelling carbon dioxide and this helps with relaxation.
+Carbon dioxide builds up when stressed.  The physiological sigh is more effective at expelling carbon dioxide and this helps with relaxation.
 
-Stress can't be directly controlled by the mind.  Repeating the physiological sigh two or three times is the most effective way to manage stress in the moment.
+Stress can't be directly controlled by the mind.  Repeating the physiological sigh two or three times is the best way to manage stress in the moment.
 
 ## Resources
 
