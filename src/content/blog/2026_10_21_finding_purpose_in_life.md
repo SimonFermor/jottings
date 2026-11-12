@@ -42,6 +42,8 @@ _Non-conscious priming might play a strong role in the hybrid development of pur
 
 _For some people, purpose in life will be irrelevant. For others, purpose in life exists and an omission of this construct will render it impossible to understand the origin of their thoughts, behaviors, and strivings._
 
+Jonathan de Sola Mendes, the oldest person to complete the New York marathon, is [quoted](https://www.nytimes.com/2026/11/09/sports/jonathan-de-sola-mendes-dead.html) in the New York Times as saying: “You’ve got to have goals in life or you wither away”
+
 References:
 
 [Kashdan, Todd & Mcknight, Patrick. (2009). Origins of Purpose in Life: Refining our Understanding of a Life Well Lived. Psychological Topics. 18.](https://www.researchgate.net/publication/43170672_Origins_of_Purpose_in_Life_Refining_our_Understanding_of_a_Life_Well_Lived)

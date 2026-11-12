@@ -16,11 +16,11 @@ The recommended lifestyle changes are:
 - regularly exercising
 - eating a healthy diet
 - frequently socializing
-- minimizing sedentary behaviour
+- minimizing sedentary behavior
 
 _On average, the lifestyle intervention led to an 8.55-point decrease, 1.73 points more than the 6.82-point decrease in the CBT group._
 
-_[Ashwini Nadkarni](https://connects.catalyst.harvard.edu/Profiles/display/Person/124779) at Harvard Medical School. “Changes in one’s lifestyle can impact depression through several pathways, including inflammation, stress and neuroplasticity, which is the reorganisation of structure, function and connections in the brain._
+_[Ashwini Nadkarni](https://connects.catalyst.harvard.edu/Profiles/display/Person/124779) at Harvard Medical School. “Changes in one’s lifestyle can impact depression through several pathways, including inflammation, stress and neuroplasticity, which is the reorganization of structure, function and connections in the brain._
 
 ## References
 

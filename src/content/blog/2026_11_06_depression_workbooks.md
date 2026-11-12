@@ -11,6 +11,6 @@ Michigan healthcare system Behavioral Activation [workbook](https://psych.med.um
 
 ## Resources
 
-https://psych.med.umich.edu/anxiety-program/pdf/Behavioral-Activation-for-Depression.pdf
+[https://psych.med.umich.edu/anxiety-program/pdf/Behavioral-Activation-for-Depression.pdf]
 
 Dr Ali Mattu 25 Tiny Things [worksheet](https://www.alimattu.com/awesomethings/)
