@@ -26,4 +26,6 @@ Stress can't be directly controlled by the mind.  Repeating the physiological si
 
 Krasnow Lab at Stanford: [https://krasnow-mark.squarespace.com/research]
 
+Stanford news [article](https://med.stanford.edu/news/insights/2023/02/cyclic-sighing-can-help-breathe-away-anxiety.html) on the benefits of cyclic sighing
+
 Washington Post [article](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/02/08/scientists-uncover-the-brain-mechanism-that-makes-you-sigh/) on research by Jack Feldman on the double sighing mechanism.
