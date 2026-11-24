@@ -49,3 +49,5 @@ References:
 [Kashdan, Todd & Mcknight, Patrick. (2009). Origins of Purpose in Life: Refining our Understanding of a Life Well Lived. Psychological Topics. 18.](https://www.researchgate.net/publication/43170672_Origins_of_Purpose_in_Life_Refining_our_Understanding_of_a_Life_Well_Lived)
 
 New York Times [article](https://www.nytimes.com/2026/10/15/well/purpose-anxiety-psychology.html)
+
+Journal of Psychosomatic Research: [Maintaining sense of purpose in midlife predicts better physical health](https://www.sciencedirect.com/science/article/abs/pii/S0022399921001306)
